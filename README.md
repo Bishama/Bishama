@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=DJANGO&color=cbb148&style=plastic&logo=django"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FLASK&color=cbb148&s&style=plastic&logo=flask"/>
 </p>
 
 <h1 align="center">Connect</h1>
