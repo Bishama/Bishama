@@ -1,4 +1,4 @@
-
+<img src="cover.jpg" height="300px" width="100%">
 <h1 align="center">I'm Bishama, a full-stack developer</h1> 
 
 
