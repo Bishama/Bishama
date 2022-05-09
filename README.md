@@ -1,5 +1,5 @@
 <img src="cover.png" width="100%">
-###<div align="center">I'm Bishama, a full-stack developer</div>  
+<h1 align="center">I'm Bishama, a full-stack developer</h1> 
 
 
 <br/> 
