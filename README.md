@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 
   
-<div align="center">
-<img src="githublogo.png" align="center" style="width: 100%" />
-</div>  
 
 ### <div align="center">I'm Bishama, a full-stack developer</div>  
 
