@@ -1,4 +1,4 @@
-<img src="cover.png" width="100%" height="60%">
+
 <h1 align="center">I'm Bishama, a full-stack developer</h1> 
 
 
@@ -8,7 +8,7 @@
 
 <br/>  
 
-<h1 align="center">Technologies</h1>
+<h2 align="center">Technologies</h2>
 
 
 
@@ -25,7 +25,7 @@
 </p>
 
 
-<h1 align="center">Connect</h1>
+<h2 align="center">Connect</h2>
 
 
 
