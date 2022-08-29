@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Python and Django**
-
 - 📫 How to reach me **bishamairfann10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
