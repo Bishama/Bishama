@@ -86,6 +86,4 @@ As a freelance developer, I have proven record of creating and implementing succ
 </table>
 
 
-<h1 align="center">Technologies</h1>
-
 
